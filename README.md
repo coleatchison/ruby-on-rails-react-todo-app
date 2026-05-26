@@ -199,26 +199,27 @@ The frontend was intentionally organized to reflect scalable React application s
 
 ```txt
 frontend/
-├── src/
-│
-├── api/
-│   ├── config.ts
-│   └── todos.ts
-│
-├── components/
-│   ├── AddTodo.tsx
-│   ├── Card.tsx
-│   ├── Hero.tsx
-│   ├── Section.tsx
-│   ├── TextInput.tsx
-│   ├── Todo.tsx
-│   └── TodoList.tsx
-│
-├── util/
-│   └── cn.ts
-│
-├── App.tsx
-└── main.tsx
+  ├── src/
+  |     ├── api/
+  |     |     └── config.ts
+  |     |     └── todos.ts
+  |     |
+  |     ├── components/
+  |     |     └── AddTodo.tsx
+  |     |     └── Card.tsx
+  |     |     └── Section.tsx
+  |     |     └── TextInput.tsx
+  |     |     └── Title.tsx
+  |     |     └── Todo.tsx
+  |     |     └── TodoList.tsx
+  |     | 
+  |     ├── utils/
+  |     |     └── cn.ts
+  |     |
+  |     └── App.tsx
+  |     └── main.tsx
+  | 
+  └── index.html
 ```
 
 ---
@@ -315,8 +316,8 @@ Areas explored during development:
 
 ```txt
 root/
-├── backend/
-└── frontend/
+  ├── backend/
+  └── frontend/
 ```
 
 The project intentionally separates backend and frontend concerns to mirror modern full-stack application architecture.
@@ -344,11 +345,11 @@ But, God loves his creation. God's plan, since before earth's foundations were l
 
 Jesus was no mere human. He was both fully human, and fully God. Jesus was born sinless, conceived by the Holy Spirit to a virgin named Mary, as was prophesied in the Old Testament. Jesus lived a completely sinless life. He lived a life dedicated to the service of God's will, teaching, healing, and loving people. Jesus was the only begotten Son of God.
 
-When the time came, Jesus was given over to die. Jesus was crucified - a death sentence so painful the word excrutiating had to be made. On the cross, Jesus bore the sins of all of God's chosen people, so that He became the ultimate sacrifice. A sacrifice so great, that we no longer need to make another sacrifice. Because Jesus was the spotless lamb, a truly sinless human, He was fully righteous. And if you believe in Jesus and what He did for you, his righteousness is imputed to you. Your sins are wiped clean because of what Jesus did.
+When the time came, Jesus was given over to die. Jesus was crucified - a death sentence so painful the word excrutiating had to be made. On the cross, Jesus bore the sins of all of God's chosen people so that He became the ultimate sacrifice. A sacrifice so great, that we no longer need to make another sacrifice. Because Jesus was the spotless lamb, a truly sinless human, He was fully righteous. And if you believe in Jesus and what He did for you, his righteousness is imputed to you. Your sins are wiped clean because of what Jesus did.
 
-And it's that simple. Believe in Jesus, in what He did for you, and love God. If you do this, you will have eternal life. God will replace your heart of stone with a heart of flesh, and you will grow in Christ.
+And it's that simple. Believe in Jesus, in what He did for you, and love God. Repent of your sins, and be baptized. If you do this genuinely, you will have eternal life. You will become a member of the Church; the true and fully realized Israel. God will replace your heart of stone with a heart of flesh, and you will grow in Christ.
 
-If you have any questions about what you just read, please reach out to me, and also attend a local church service. There are many people there who would absolutely welcome you.
+If you have any questions about what you just read, please reach out to me, and also attend a local church service. There are many people there who would absolutely welcome you and are ready to talk.
 
 Love God and love your neighbor as yourself.
 
