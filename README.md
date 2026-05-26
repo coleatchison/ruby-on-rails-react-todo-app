@@ -87,7 +87,33 @@ Although the project itself is intentionally simple, the implementation focuses 
 
 ## Screenshots / Demo
 
+### All states of the todos
+<img width="750" alt="RubyTodoApp" src="https://github.com/user-attachments/assets/d3fec855-7116-48bf-86a7-e0ee2bc82e79" />
 
+From top to bottom:
+- You can see the title, as well as the number of todos that are saved
+- Then, you have an input to write a new todo, and a button to add it
+- Under that are the todos
+    - The first todo is in the editing state, where you can change what the todo says
+    - The second todo is the normal state, where the todo is uncompleted. On the left of the todo is the checkbox, and on the right are the edit and delete buttons
+    - The third todo is the completed state. Here, the checkbox is checked, the todo is crossed out, and you can still delete it
+
+<br/>
+
+### Empty list
+<img width="750" alt="RubyTodoApp-EmptyState" src="https://github.com/user-attachments/assets/0bd3d1b8-e152-4fbb-8d50-3ed9aee05c8b" />
+
+When the list is empty, the count is shown as 0, and there is text showing that there are no todos.
+
+<br/>
+
+### Video Demo
+
+<video src="https://github.com/user-attachments/assets/f35716a3-ceb0-4733-8444-c4d4e2503bf2"></video>
+
+Github required me to lower the quality of the video to upload, so aplogies for the low-res, but it's thankfully still clear enough to see it work!
+
+<br/>
 
 ---
 
