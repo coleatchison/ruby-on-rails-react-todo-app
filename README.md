@@ -337,7 +337,7 @@ Senior Frontend Engineer focused on:
 
 ---
 
-If you made it down this far, God loves you and sent his son to die for your sins so that if you believe in Him, you can have eternal life! 
+If you made it down this far, God loves you and sent His Son to die for your sins so that if you believe in Him, you will have eternal life! 
 
 What does this mean? God created humanity, but humanity rebelled against God, and as a result, all creation was cursed with sin. Sin is anything that goes against God, His nature, His commands, and His laws. You, being born into sin, are in a state separated from God, and there's nothing that YOU can do that can forgive your sin. On your own, you're destined for hell. You cannot save yourself.
 
@@ -345,7 +345,7 @@ But, God loves his creation. God's plan, since before earth's foundations were l
 
 Jesus was no mere human. He was both fully human, and fully God. Jesus was born sinless, conceived by the Holy Spirit to a virgin named Mary, as was prophesied in the Old Testament. Jesus lived a completely sinless life. He lived a life dedicated to the service of God's will, teaching, healing, and loving people. Jesus was the only begotten Son of God.
 
-When the time came, Jesus was given over to die. Jesus was crucified - a death sentence so painful the word excrutiating had to be made. On the cross, Jesus bore the sins of all of God's chosen people so that He became the ultimate sacrifice. A sacrifice so great, that we no longer need to make another sacrifice. Because Jesus was the spotless lamb, a truly sinless human, He was fully righteous. And if you believe in Jesus and what He did for you, his righteousness is imputed to you. Your sins are wiped clean because of what Jesus did.
+When the time came, Jesus was given over to die. Jesus was crucified - a death sentence so painful the word "excrutiating" had to be made. On the cross, Jesus bore the sins of all of God's chosen people so that He became the ultimate sacrifice. A sacrifice so great, that we no longer need to make another sacrifice. Because Jesus was the spotless lamb, a truly sinless human, He was fully righteous. And if you believe in Jesus and what He did for you, His righteousness is imputed to you. Your sins are wiped clean because of what Jesus did.
 
 And it's that simple. Believe in Jesus, in what He did for you, and love God. Repent of your sins, and be baptized. If you do this genuinely, you will have eternal life. You will become a member of the Church; the true and fully realized Israel. God will replace your heart of stone with a heart of flesh, and you will grow in Christ.
 
